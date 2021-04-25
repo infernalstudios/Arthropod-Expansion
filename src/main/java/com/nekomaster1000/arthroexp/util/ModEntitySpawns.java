@@ -1,7 +1,7 @@
 package com.nekomaster1000.arthroexp.util;
 
 import com.nekomaster1000.arthroexp.ArthroExp;
-import com.nekomaster1000.arthroexp.entities.LadybugEntity;
+import com.nekomaster1000.arthroexp.entity.LadybugEntity;
 import com.nekomaster1000.arthroexp.init.ArthroExpEntityTypes;
 import net.minecraft.entity.ai.attributes.GlobalEntityTypeAttributes;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

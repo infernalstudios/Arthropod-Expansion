@@ -1,15 +1,15 @@
-package com.nekomaster1000.arthroexp.entities;
+package com.nekomaster1000.arthroexp.entity;
 
+import net.minecraft.entity.CreatureEntity;
 import net.minecraft.entity.EntityType;
-import net.minecraft.entity.FlyingEntity;
 import net.minecraft.entity.MobEntity;
 import net.minecraft.entity.ai.attributes.AttributeModifierMap;
 import net.minecraft.entity.ai.attributes.Attributes;
 import net.minecraft.world.World;
 
-public class LadybugEntity extends FlyingEntity {
+public class LadybugEntity extends CreatureEntity {
 
-    public LadybugEntity(EntityType<? extends FlyingEntity> type, World worldIn) {
+    public LadybugEntity(EntityType<? extends CreatureEntity> type, World worldIn) {
         super(type, worldIn);
     }
     

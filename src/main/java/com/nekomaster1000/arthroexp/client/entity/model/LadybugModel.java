@@ -2,8 +2,8 @@ package com.nekomaster1000.arthroexp.client.entity.model;
 
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.vertex.IVertexBuilder;
+import com.nekomaster1000.arthroexp.entity.LadybugEntity;
 
-import com.nekomaster1000.arthroexp.entities.LadybugEntity;
 import net.minecraft.client.renderer.entity.model.EntityModel;
 import net.minecraft.client.renderer.model.ModelRenderer;
 

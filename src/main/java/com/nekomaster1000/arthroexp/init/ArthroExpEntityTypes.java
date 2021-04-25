@@ -1,7 +1,8 @@
 package com.nekomaster1000.arthroexp.init;
 
 import com.nekomaster1000.arthroexp.ArthroExp;
-import com.nekomaster1000.arthroexp.entities.LadybugEntity;
+import com.nekomaster1000.arthroexp.entity.LadybugEntity;
+
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.EntityType;
 import net.minecraft.util.ResourceLocation;

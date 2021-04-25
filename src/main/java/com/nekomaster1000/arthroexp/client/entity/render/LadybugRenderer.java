@@ -2,7 +2,8 @@ package com.nekomaster1000.arthroexp.client.entity.render;
 
 import com.nekomaster1000.arthroexp.ArthroExp;
 import com.nekomaster1000.arthroexp.client.entity.model.LadybugModel;
-import com.nekomaster1000.arthroexp.entities.LadybugEntity;
+import com.nekomaster1000.arthroexp.entity.LadybugEntity;
+
 import net.minecraft.client.renderer.entity.EntityRendererManager;
 import net.minecraft.client.renderer.entity.MobRenderer;
 import net.minecraft.util.ResourceLocation;
