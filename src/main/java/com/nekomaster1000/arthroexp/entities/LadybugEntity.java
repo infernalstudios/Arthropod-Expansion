@@ -1,4 +1,4 @@
-package dev.cernavskis.arthroexp.entities;
+package com.nekomaster1000.arthroexp.entities;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.FlyingEntity;

@@ -1,8 +1,8 @@
-package dev.cernavskis.arthroexp.util;
+package com.nekomaster1000.arthroexp.util;
 
-import dev.cernavskis.arthroexp.ArthroExp;
-import dev.cernavskis.arthroexp.entities.LadybugEntity;
-import dev.cernavskis.arthroexp.init.ArthroExpEntityTypes;
+import com.nekomaster1000.arthroexp.ArthroExp;
+import com.nekomaster1000.arthroexp.entities.LadybugEntity;
+import com.nekomaster1000.arthroexp.init.ArthroExpEntityTypes;
 import net.minecraft.entity.ai.attributes.GlobalEntityTypeAttributes;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;

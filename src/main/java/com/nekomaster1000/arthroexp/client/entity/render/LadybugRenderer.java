@@ -1,8 +1,8 @@
-package dev.cernavskis.arthroexp.client.entity.render;
+package com.nekomaster1000.arthroexp.client.entity.render;
 
-import dev.cernavskis.arthroexp.ArthroExp;
-import dev.cernavskis.arthroexp.client.entity.model.LadybugModel;
-import dev.cernavskis.arthroexp.entities.LadybugEntity;
+import com.nekomaster1000.arthroexp.ArthroExp;
+import com.nekomaster1000.arthroexp.client.entity.model.LadybugModel;
+import com.nekomaster1000.arthroexp.entities.LadybugEntity;
 import net.minecraft.client.renderer.entity.EntityRendererManager;
 import net.minecraft.client.renderer.entity.MobRenderer;
 import net.minecraft.util.ResourceLocation;
