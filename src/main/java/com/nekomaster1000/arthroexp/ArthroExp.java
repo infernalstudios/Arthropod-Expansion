@@ -11,6 +11,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.nekomaster1000.arthroexp.init.ArthroExpEntityTypes;
+import software.bernie.geckolib3.GeckoLib;
 
 @Mod(ArthroExp.MOD_ID)
 public class ArthroExp {
@@ -21,6 +22,7 @@ public class ArthroExp {
         MinecraftForge.EVENT_BUS.register(this);
         final IEventBus eventbus = FMLJavaModLoadingContext.get().getModEventBus();
         ArthroExpEntityTypes.register(eventbus);
+        GeckoLib.initialize();
     }
 
     @SubscribeEvent

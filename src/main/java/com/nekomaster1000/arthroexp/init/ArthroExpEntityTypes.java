@@ -22,7 +22,7 @@ public class ArthroExpEntityTypes {
 
     public static void register(IEventBus eventBus) {
         ENTITY_TYPES.register(eventBus);
-        ArthroExp.LOGGER.info("Infernal Expansion: Entity Types Registered!");
+        ArthroExp.LOGGER.info("Arthopod Expansion: Entity Types Registered!");
     }
     
 }
